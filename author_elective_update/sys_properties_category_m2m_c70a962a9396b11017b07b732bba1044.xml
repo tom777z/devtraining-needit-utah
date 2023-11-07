@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="Special Days Properties">bb78d2e69396b11017b07b732bba10f5</category>
+        <order>100</order>
+        <property display_value="x_58872_needit.daysNotice" name="x_58872_needit.daysNotice">f979962a9396b11017b07b732bba103f</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-07 10:15:39</sys_created_on>
+        <sys_id>c70a962a9396b11017b07b732bba1044</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.daysNotice.Special Days Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_c70a962a9396b11017b07b732bba1044</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-07 10:15:39</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2aa37054dbbd3110ae4c9027c59619f9</instance_id>
+        <instance_name>dev182054</instance_name>
+        <name>sys_properties_category_m2m_c70a962a9396b11017b07b732bba1044</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="Special Days Properties">bb78d2e69396b11017b07b732bba10f5</category><order>100</order><property display_value="x_58872_needit.daysNotice" name="x_58872_needit.daysNotice">f979962a9396b11017b07b732bba103f</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 10:15:39</sys_created_on><sys_id>c70a962a9396b11017b07b732bba1044</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.daysNotice.Special Days Properties</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_category_m2m_c70a962a9396b11017b07b732bba1044</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 10:15:39</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>-2146879026</payload_hash>
+        <record_name>x_58872_needit.daysNotice.Special Days Properties</record_name>
+        <reverted_from/>
+        <source>516752669396b11017b07b732bba1075</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-07 10:15:39</sys_created_on>
+        <sys_id>070a962a9396b11017b07b732bba1047</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ba947d7c70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-07 10:15:39</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>4b0a962a3796b1108c5be13381675a46</update_guid>
+        <update_guid_history>4b0a962a3796b1108c5be13381675a46:-2146879026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-07 10:46:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>0126c123e0dc47d480aaf51a35bd7324</sys_id>
+        <sys_metadata>c70a962a9396b11017b07b732bba1044</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.daysNotice.Special Days Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_c70a962a9396b11017b07b732bba1044</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_c70a962a9396b11017b07b732bba1044">070a962a9396b11017b07b732bba1047</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-07 10:46:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
